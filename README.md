@@ -1,6 +1,8 @@
 # BTextractor
 Bat para extraer todos los jpg .png .txt .pdf .doc .xlsx de un sistema windows.
 
+PARA QEU FUNCIONE HAY QUE EJECUTAR COMO ADMINISTRADOR.
+
 Ocasiones de Uso:
 
     Respaldo Selectivo de Archivos:
